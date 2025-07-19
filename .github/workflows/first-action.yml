@@ -1,5 +1,5 @@
 name: First Workflow
-on: workflow_dipatch
+on: workflow_dispatch # allow to run workflow manually
 jobs: 
   first-job:
     runs-on: ubuntu-latest
